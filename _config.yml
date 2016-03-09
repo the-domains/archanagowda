@@ -1,0 +1,28 @@
+name: ArchanaGowda
+favicon: null
+layout_spectrum: 0.7547737176064402
+typography_spectrum: 0.7647234168834984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7466363343410194
+  lightness: 0.34314064448699355
+  saturation: 0.39897986338473856
+  rhythmicContrast: 0.5029488164000213
+purpose: []
